@@ -2,3 +2,6 @@
 
 1. Pizza
 2. Pasta
+3. Beans
+4. Fish
+6. Chicken
